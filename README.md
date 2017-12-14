@@ -2,18 +2,14 @@
 
 
 ## Table of contents
-* [Getting started](#user-content-getting-started)
-* [Tech stacks](#user-content-tech-stacks)
-* [React component structure](#user-content-react-component-structure)
+
 * [Features](#user-content-features)
-* [Responsive layout](#user-content-responsive-layout)
 * [Git clone or download](#user-content-git-clone-or-download)
 * [Setup](#user-content-setup)
 * [npm tasks](#user-content-npm-tasks)
 * [Running in dev mode](#user-content-running-in-dev-mode)
 * [Build application](#user-content-build-application)
 * [Build application in production mode](#user-content-build-application-in-production-mode)
-* [Accessibility check](#user-content-accessibility-check)
 * [Changelog](#user-content-changelog)
 
 
