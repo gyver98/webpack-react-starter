@@ -1,8 +1,4 @@
-# filterable-product-grid-app
-
-Filterable product grid application.
-
-[Live demo](http://filterable-product-grid.surge.sh/)
+# Webpack React Starter
 
 
 ## Table of contents
@@ -20,46 +16,27 @@ Filterable product grid application.
 * [Accessibility check](#user-content-accessibility-check)
 * [Changelog](#user-content-changelog)
 
-## Getting started
-
-![start](https://github.com/gyver98/blog-images/blob/master/filterable-product-grid/getting-started.png?raw=true)
-
-
-## Tech stacks
-
-* Webpack(v3.10.0) - transpiling scripts, script & css minification, sass autoprefixing, image compression
-* Webpack-dev-server(v2.9.7) - local development server
-* React(v16.2.0) - javascript library for building user interfaces 
-* Flexbox - responsive web design
-
-## React component structure
-
-![structure](https://github.com/gyver98/blog-images/blob/master/filterable-product-grid/structure.png?raw=true)
-
 
 ## Features
 
 - [x] Webpack 3 (development and production config)
-- [x] Hot loading
+- [x] Hot reloading
 - [x] Babel - Transpile the JS from ES6/7 down to machine optimised ES5
 - [x] SASS with autoprefixing
 - [x] Linting (ESlint + airbnb-base) - Lint the JS/JSX with errors and warnings to the terminal ()
 - [x] Move image files into public
 - [x] Minification javascript & css
 
-## Responsive layout
-
-![responsive](https://github.com/gyver98/blog-images/blob/master/filterable-product-grid/responsive.png?raw=true)
 
 ## Git clone or download
 
-Go to https://github.com/gyver98/filterable-product-grid-app
+Go to https://github.com/gyver98/webpack-react-starter
 
 Then grab the project from the repo.
 
 ## Setup
 
-Tested with node 7.x
+Tested with node 9.x
 
 Install the packages the project needs.
 
@@ -120,12 +97,6 @@ or
 ```
 $ yarn production
 ```
-
-## Accessibility check
-
-Checked accessibility using chrome dev tool (audits) and axe extenstion
-
-![audit](https://github.com/gyver98/blog-images/blob/master/filterable-product-grid/audit.png?raw=true)
 
 
 ## Changelog
