@@ -10,12 +10,12 @@ let config = {
     path: path.resolve(__dirname, './public'),
     filename: 'bundle.js' // output filename
   },
-  resolve: { // These options change how modules are resolved
-    extensions: ['.js', '.jsx', '.json', '.scss', '.css', '.jpeg', '.jpg', '.gif', '.png'], // Automatically resolve certain extensions
-    alias: { // Create aliases
-      images: path.resolve(__dirname, 'src/assets/images')  // src/assets/images alias
-    }
-  },
+  // resolve: { // These options change how modules are resolved
+  //   extensions: ['.js', '.jsx', '.json', '.scss', '.css', '.jpeg', '.jpg', '.gif', '.png'], // Automatically resolve certain extensions
+  //   alias: { // Create aliases
+  //     images: path.resolve(__dirname, 'src/assets/img')  // src/assets/images alias
+  //   }
+  // },
   module: {
     rules: [
       {
