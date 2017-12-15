@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.scss';
-import logoSrc from './assets/img/logo.svg';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.scss";
+import logoSrc from "./assets/img/logo.svg";
 
 const App = () => (
   <div>
@@ -12,5 +12,5 @@ const App = () => (
 
 ReactDOM.render(
   <App />,
-  document.getElementById('root'),
+  document.getElementById("root"),
 );

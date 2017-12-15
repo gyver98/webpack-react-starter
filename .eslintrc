@@ -4,8 +4,8 @@
     "max-len": [1, 120, 2, {"ignoreComments": true}],
     "prop-types": [0],
     "no-unused-vars": 0,
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
-    // "quotes": [0, "single", "avoid-escape"],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "quotes": [ 2, "double", "avoid-escape" ],
     // "quote-props": [0]
   },
   "extends": ["airbnb"],
